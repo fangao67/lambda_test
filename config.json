@@ -1,0 +1,30 @@
+{
+    "master_host": "typecertification.czszdsxrlton.rds.cn-north-1.amazonaws.com.cn",
+    "master_username": "tcmaster",
+    "master_password": "Initial-0",
+    "master_db": "NewCertification",
+    "master_table1": "certification_running_log",
+    "master_table2": "certification_census",
+    "master_table1_columns": [
+      "ProjectID",
+      "BatchID",
+      "Conditions",
+      "DocID",
+      "Columnss",
+      "Statuss",
+      "Reason",
+      "running_costs"
+    ],
+    "master_table2_columns": [
+      "VariableName",
+      "VariableUnit",
+      "Conditions",
+      "BatchID",
+      "ProjectID",
+      "DocID",
+      "_STD",
+      "_MEAN",
+      "_MAX",
+      "_MIN" 
+    ]
+  }
