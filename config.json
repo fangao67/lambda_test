@@ -1,7 +1,7 @@
 {
-    "master_host": "typecertification.czszdsxrlton.rds.cn-north-1.amazonaws.com.cn",
-    "master_username": "tcmaster",
-    "master_password": "Initial-0",
+    "master_host": "xxxxxxxxx",
+    "master_username": "xxxxxxx",
+    "master_password": "xxxxxxx",
     "master_db": "NewCertification",
     "master_table1": "certification_running_log",
     "master_table2": "certification_census",
